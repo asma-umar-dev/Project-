@@ -2,9 +2,7 @@
 
 A responsive, single-page website for **Al-Khubaib Real Estate Marketing & Builders (Pvt) Ltd.**, a SECP-registered real estate and construction company based in Rawalpindi, Pakistan.
 
-Live preview: _add your hosted link here once deployed_
 
----
 
 ## Overview
 
